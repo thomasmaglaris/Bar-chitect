@@ -1,0 +1,42 @@
+.about-header {
+  font-family: "Sansita Swashed", cursive;
+  text-align: center;
+  margin-top: 40px;
+  padding-top: 40px;
+  color: black;
+}
+
+.about-info {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.about-body {
+  background-color: bisque;
+}
+
+.whole {
+  background-color: rgb(4, 4, 5);
+}
+
+.font {
+  font-family: "Sansita Swashed", cursive !important;
+  color: black;
+}
+
+.section-1,
+.section-2,
+.section-3 {
+  padding-top: 50px;
+}
+
+.start-button {
+  background-color: white;
+  border-width: 4px;
+}
+
+.about-sub {
+  color: ivory;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}

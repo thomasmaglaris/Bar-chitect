@@ -1,0 +1,53 @@
+.NavbarItems {
+  /* background-color: #00223b; */
+  background-color: #000000;
+  color: azure;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  font-family: "Sansita Swashed", cursive;
+}
+
+.nav-items-wrapper {
+  padding: 25px;
+}
+
+.nav-items-wrapper li {
+  margin: 0 10px;
+}
+
+.nav-items-wrapper li a,
+.nav-items-wrapper li a:hover {
+  color: white;
+}
+
+.bar-logo {
+  height: 260px;
+  width: 260px;
+  margin-left: 0px;
+}
+
+.border-gradient {
+  background: linear-gradient(315deg, #f5d020 0%, #f53803 64%);
+  height: 5px;
+}
+
+nav .login-container {
+  float: right;
+  margin-top: 11px;
+}
+
+nav input[type="text"],
+input[type="password"] {
+  padding: 2px;
+  margin-right: 5px;
+}
+
+.login-button {
+  float: right;
+  padding: 2px;
+  width: 50px;
+  margin-right: 16px;
+  background: azure;
+  cursor: pointer;
+}

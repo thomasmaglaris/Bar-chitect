@@ -1,0 +1,16 @@
+.footer {
+  background: rgb(4, 4, 5);
+  color: azure;
+  font-family: "Courier New", Courier, monospace;
+  padding: 0;
+}
+
+.footer .container {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+}
+
+.footer .container p {
+  padding: 0;
+}

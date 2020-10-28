@@ -9,7 +9,7 @@ Bar-chitect provides relevant cocktail recipe information using the Cocktaildb A
 
 Users will then be able to sign up/log in and save cocktail recipes so they can refer to them at a later date (W.I.P).
 
-![image](barchitect/client/public/images/homePage.PNG)
+![image](client/public/images/homePage.PNG)
 
 <br>
 
@@ -53,16 +53,15 @@ I can save the cocktails recipes I want so i can refer to them in the future.
 
 <br>
 
-![image](barchitect/client/public/images/searchForm.PNG)
+![image](client/public/images/searchForm.PNG)
 
-![image](barchitect/client/public/images/searchResults.PNG)
+![image](client/public/images/searchResults.PNG)
 
 <br>
 
 ## Installation and Usage
 
 Access the application deployed to heroku via the link below:
-
 
 OR
 
@@ -75,29 +74,30 @@ npm install in from the root folder followed by npm start.
 ## Technologies Used
 
 <b>Languages</b>
-* JavaScript
-* HTML 
-* CSS
-* JSX
+
+- JavaScript
+- HTML
+- CSS
+- JSX
 
 <b>Libraries/Frameworks</b>
 
-* Mongodb
-* React
-* Axios
-* Google Fonts
-* Font Awesome
-* Bulma CSS
+- Mongodb
+- React
+- Axios
+- Google Fonts
+- Font Awesome
+- Bulma CSS
 
 <b>API</b>
-* Cocktaildb
 
+- Cocktaildb
 
 <br>
 
 ## Future Developments
 
-Saving cocktail data as per the registered user along with rendering that data to the saved cocktails page is currently a future development. 
+Saving cocktail data as per the registered user along with rendering that data to the saved cocktails page is currently a future development.
 
 <br>
 

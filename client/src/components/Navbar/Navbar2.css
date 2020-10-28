@@ -1,0 +1,30 @@
+.navbar {
+  background-color: black;
+}
+
+.navbar-item {
+  color: whitesmoke;
+  font-family: "Sansita Swashed", cursive;
+  background-color: black;
+}
+
+.nav-button {
+  font-family: "Sansita Swashed", cursive;
+}
+
+.navbar-item img {
+  max-height: 3.75rem;
+  margin-left: 35%;
+}
+
+@media screen and (max-width: 1023px) {
+  .navbar-menu {
+    background-color: orange;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .navbar-item img {
+    margin-left: 16%;
+  }
+}
